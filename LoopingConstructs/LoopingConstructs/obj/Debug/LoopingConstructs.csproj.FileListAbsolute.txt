@@ -1,0 +1,7 @@
+C:\Users\giliy\Desktop\Codes\Git and GitHub\LoopingConstructDemo\LoopingConstructs\LoopingConstructs\bin\Debug\LoopingConstructs.exe.config
+C:\Users\giliy\Desktop\Codes\Git and GitHub\LoopingConstructDemo\LoopingConstructs\LoopingConstructs\bin\Debug\LoopingConstructs.exe
+C:\Users\giliy\Desktop\Codes\Git and GitHub\LoopingConstructDemo\LoopingConstructs\LoopingConstructs\bin\Debug\LoopingConstructs.pdb
+C:\Users\giliy\Desktop\Codes\Git and GitHub\LoopingConstructDemo\LoopingConstructs\LoopingConstructs\obj\Debug\LoopingConstructs.csproj.CoreCompileInputs.cache
+C:\Users\giliy\Desktop\Codes\Git and GitHub\LoopingConstructDemo\LoopingConstructs\LoopingConstructs\obj\Debug\LoopingConstructs.exe
+C:\Users\giliy\Desktop\Codes\Git and GitHub\LoopingConstructDemo\LoopingConstructs\LoopingConstructs\obj\Debug\LoopingConstructs.pdb
+C:\Users\giliy\Desktop\Codes\Git and GitHub\LoopingConstructDemo\LoopingConstructs\LoopingConstructs\obj\Debug\LoopingConstructs.csproj.AssemblyReference.cache
